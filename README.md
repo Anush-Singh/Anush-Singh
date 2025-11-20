@@ -1,5 +1,5 @@
-# 👋 Hey, I'm Akhand Pratap Singh  
-### AI Engineer • Specializing in RAG, Embeddings & Intelligent Automation
+# 👋 Hey, I'm Anush Singh  
+### AI Engineer • Specializing in Generative AI and Agent Building
 
 ![banner](banner.png)
 
@@ -12,59 +12,66 @@
 
 ## 🎯 Focused Areas  
 
-- 🤖 AI Engineering – RAG systems, embeddings, semantic search, vector databases  
-- 📄 Document AI – building intelligent assistants using ChromaDB + HuggingFace  
-- 🧠 Algorithmic Problem Solving – 325+ LeetCode problems  
-- 🛠 Practical Automation – Python utilities, local AI tools, backend pipelines  
-
+- 🤖 **AI Engineering** – Agent making using **Scikit-Learn, Keras, Matplotlib, Pandas, NumPy**
+- 🧠 **Algorithmic Problem Solving** – Solved **165+ LeetCode problems**
+- 📘 **AI & ML Projects**
+  - **Text Classification** with TensorFlow  
+  - **Object Detection** using TensorFlow  
+  - **Landmark Detection**
+- 🛠 **Practical Automation** – Python utilities, local AI tools, agent development
 ---
 
-## ⚡ Tech Stack  
+## ⚡ Tech Stack
+
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FCC72C?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge"/>
+    <!-- Languages -->
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <!-- Python Libraries -->
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+    <!-- AI Agent -->
+    <img src="https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=robot&logoColor=white"/>
+
 </p>
 
----
 
 ## 🚀 Featured AI Project  
 
-### 💾 AI Document Assistant (RAG-based)  
-A local AI system that reads documents, creates embeddings, stores them in ChromaDB, retrieves top-k relevant chunks, and answers questions using semantic search.  
-Designed for accuracy, speed, and full offline usage.
-
-📌 Built With: Python • HuggingFace • ChromaDB • Streamlit  
-🔗 Repo: https://github.com/Akhand-3110/AI-Doc-Assistant  
+### 💾
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhand-3110&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anush-Singh&show_icons=true&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
 ## 🧩 LeetCode Progress  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/_chiku_3110?theme=dark&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Anush_Singh?theme=dark&ext=heatmap" />
 </p>
 
 ---
 
 ## 📫 Connect With Me  
 
-- 📧 Email: akhandp765@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/akhand-pratap-singh-1a7939307/  
+- 📧 Email: 2k23.csai2310942@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/anush-singh-8bb0a12a0
 
 ---
 
 <p align="center">
-  <i>“Build AI that actually solves problems.”</i>
+  <i>“Build AI Agents which can be aded to any app or website for AI assistance.”</i>
 </p>
