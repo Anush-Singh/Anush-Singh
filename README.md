@@ -106,7 +106,41 @@ A machine-learning-based system designed to monitor vessel performance, predict 
 
 🔗 **GitHub:**
 https://github.com/aishwaryguptadz/MarineVesselMonitoringSystem
+---
+## 📚 BookHolic – Intelligent Book Recommendation System
 
+**Personalized ML-Based Book Discovery & Recommendation Platform**
+
+BookHolic is an intelligent book recommendation platform that suggests personalized books based on a reader's **reading experience, preferred genre, and interests**.
+
+The system uses Machine Learning techniques to understand book similarities and generate relevant recommendations, helping readers discover their next favorite book.
+
+### Key Features
+
+* 📚 Personalized book recommendations
+* 🧠 Content-Based Recommendation System
+* 🔢 TF-IDF Vectorization for book feature extraction
+* 📐 Cosine Similarity for recommendation ranking
+* 🎯 Genre-based book discovery
+* 📖 Reading-experience-based personalization (Beginner, Intermediate, Advanced)
+* 🌐 Open Library API integration for book information
+* ⚡ FastAPI-powered REST API
+* 🚀 Deployed backend with public API access
+
+### ML Concepts & Technologies
+
+* TF-IDF (Term Frequency–Inverse Document Frequency)
+* Cosine Similarity
+* Content-Based Filtering
+* Feature Engineering
+* Data Preprocessing
+* Python, Pandas, Scikit-learn
+* FastAPI
+* Open Library API
+
+🔗 **Live API:** https://bookholic.onrender.com
+
+🔗 **API Documentation:** https://bookholic.onrender.com/docs
 ---
 
 ## 🎬 Movie Recommendation System
